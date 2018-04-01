@@ -11,3 +11,7 @@ Things left:
 - figure out a way to duct-tape everything to my board
 - decide if I want to use only the rear LEDs for the brake, or all of them
 - find out if my new Cygnett powerbank will power the Arduino and LEDs without frying them
+
+Thanks to:
+
+- FastLED for the sweet Cylon-style light code/ideas
